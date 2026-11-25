@@ -1,0 +1,5 @@
+training_condition,group,benign_events,false_positives,false_positive_rate
+Original labels,Group A,374,8,0.0213903743315508
+Original labels,Group B,354,4,0.011299435028248588
+Biased training labels,Group A,374,3,0.008021390374331552
+Biased training labels,Group B,354,133,0.3757062146892655
